@@ -18,6 +18,33 @@ html {
     padding-right: 30px;
 }
 
+.qsubmit-btn{
+    background: #9900ff;
+    border: #9900ff;
+    padding-left: 30px;
+    padding-right: 30px;
+	 width: 100%;
+}
+
+.qsubmit-feedback-btn{
+    background: #9900ff;
+    border: #9900ff;
+    padding-left: 30px;
+    padding-right: 30px;
+	 width: 100%;
+}
+.qsubmit-data-btn{
+    background: #9900ff;
+    border: #9900ff;
+
+}
+
+.corner{
+	 padding-left: 50px;
+ 
+	 
+}
+
 .purple-btn{
     background: #9900ff;
     border: #9900ff;
